@@ -21,7 +21,7 @@ Maybe better to add a hostname to your raspi?
 192.168.1.220   media.center
 ```
 
-- plex [http://media.center:9117/](http://media.center:9117/)
+- plex [http://media.center:32400/](http://media.center:32400/)
 - qbittorrent [http://media.center:8080/](http://media.center:8080/)
 - radarr: [http://media.center:6767/](http://media.center:6767/)
 - sonarr: [http://media.center:8989/](http://media.center:8989/)
