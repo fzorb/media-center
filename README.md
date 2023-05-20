@@ -23,7 +23,7 @@ Maybe better to add a hostname to your raspi?
 
 - plex [http://media.center:9117/](http://media.center:9117/)
 - qbittorrent [http://media.center:8080/](http://media.center:8080/)
-- radarr: [http://media.center:6767/](http://media.center:6767/)
+- radarr: [http://media.center:7878/](http://media.center:7878/)
 - sonarr: [http://media.center:8989/](http://media.center:8989/)
 - Bazarr: [http://media.center:6767/](http://media.center:6767/)
 - jackett: [http://media.center:9117/](http://media.center:9117/)
